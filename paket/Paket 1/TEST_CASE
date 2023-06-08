@@ -1,0 +1,10 @@
+{"7\nSintia 40\nJames 34\nUdin 45\nDani 60\nFarhan 47\nAdam 50\nIbrahim 45", "Berat badan Dani tidak memenuhi syarat\nIbrahim tidak mendapatkan antrian\nSintia 40\nJames 34\nUdin 45\nFarhan 47\nAdam 50"}
+{"3\nJohn 30\nAmy 55\nPeter 60", "Berat badan Amy tidak memenuhi syarat\nJohn 30\nPeter tidak mendapatkan antrian"}
+{"5\nAlice 52\nBob 55\nCharlie 50\nDavid 56\nEve 45", "Bob 55\nDavid tidak mendapatkan antrian\nCharlie 50\nAlice 52\nEve 45"}
+{"2\nSarah 60\nMichael 45", "Berat badan Sarah tidak memenuhi syarat\nMichael 45"}
+{"4\nAnna 30\nBen 32\nCathy 35\nDaniel 31", "Anna 30\nBen 32\nCathy 35\nDaniel 31"}
+{"6\nEmma 48\nFrank 50\nGrace 53\nHenry 55\nIsabella 49\nJack 54", "Emma 48\nFrank 50\nGrace 53\nHenry 55\nIsabella 49\nJack 54"}
+{"1\nLucy 60", "Berat badan Lucy tidak memenuhi syarat"}
+{"8\nOliver 51\nSophia 52\nLiam 53\nMia 54\nNoah 55\nAva 56\nEthan 57\nHarper 58", "Oliver 51\nSophia 52\nLiam 53\nMia 54\nNoah 55\nAva 56\nEthan 57\nHarper tidak mendapatkan antrian"}
+{"3\nLily 49\nLucas 48\nChloe 47", "Lily 49\nLucas 48\nChloe 47"}
+{"0", ""} (tidak ada output)
