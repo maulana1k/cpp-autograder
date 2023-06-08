@@ -1,0 +1,7 @@
+*.exe
+*.txt
+*.zip
+*.rar
+*.json
+.vscode
+old
